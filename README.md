@@ -14,4 +14,6 @@
 4. You still see saved schedules after refreshing.
 
 5. The scheduler link is below.
+https://radoll93.github.io/Homework5_3rd-party-API/
+
 
