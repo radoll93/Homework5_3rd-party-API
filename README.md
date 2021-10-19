@@ -17,3 +17,4 @@
 https://radoll93.github.io/Homework5_3rd-party-API/
 
 
+![Work Day Scheduler](./Assets/Work_Day_Scheduler.gif)
